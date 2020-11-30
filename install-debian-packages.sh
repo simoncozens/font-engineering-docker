@@ -17,7 +17,7 @@ apt-get update
 apt-get -y upgrade
 
 # Install a new package, without unnecessary recommended packages:
-apt-get -y install --no-install-recommends libttfautohint1
+apt-get -y install --no-install-recommends libttfautohint1 git
 
 # Delete cached files we don't need anymore:
 apt-get clean
