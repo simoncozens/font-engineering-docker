@@ -1,0 +1,7 @@
+fontmake==2.2.1
+fontTools==4.17.1
+gftools==0.5.2
+babelfont==0.4.0
+ttfautohint-py==0.4.3
+glyphsLib==5.2.0
+fontbakery==0.7.33
